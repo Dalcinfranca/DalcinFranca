@@ -6,12 +6,12 @@ Tenho interesse em tecnologia, análise de dados e desenvolvimento de soluções
 
 Sobre mim
 
-*Graduando em Ciência da Computação.
-*Interesse em análise de dados e Business Intelligence.
-*Conhecimentos em Python e bancos de dados.
-*Contato com tecnologias de dados em nuvem, como Azure e Databricks.
-*Interesse em visualização de dados, indicadores e dashboards com Power BI.
-*Em constante aprendizado por meio de estudos e projetos acadêmicos.
+* Graduando em Ciência da Computação.
+* Interesse em análise de dados e Business Intelligence.
+* Conhecimentos em Python e bancos de dados.
+* Contato com tecnologias de dados em nuvem, como Azure e Databricks.
+* Interesse em visualização de dados, indicadores e dashboards com Power BI.
+* Em constante aprendizado por meio de estudos e projetos acadêmicos.
 
 Tecnologias e conhecimentos
 
@@ -29,6 +29,6 @@ Projeto acadêmico da disciplina de Desenvolvimento de Sistemas Distribuídos, d
 O projeto utiliza FastAPI, PostgreSQL e Docker para implementar uma API de gerenciamento de pedidos.
 
 
-🎯 Objetivo profissional
+Objetivo profissional
 
 Desenvolver minhas habilidades em dados e análise de dados, explorando ferramentas e tecnologias que apoiem a extração, organização, análise e visualização de informações para gerar insights e apoiar decisões.
